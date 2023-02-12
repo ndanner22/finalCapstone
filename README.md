@@ -1,5 +1,11 @@
 # finalCapstone
 
+## Table of Contents
+1. Description
+2. Installation
+3. Usage
+4. Credits
+
 ## Description
 This project is designed to help keep stock for a company.The user can pull from an external inventory list and also add new shoes to the inventory lis
 in the program. When you run the program, the user will have the option to import shoe information, create new shoe information, view all shoes in inventory
